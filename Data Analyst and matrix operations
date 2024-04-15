@@ -2,7 +2,7 @@
      2  3 
 A = {10 9 }
      7  55
-A contains cotinuous numeric data.
+A contains discret numeric data.
 The mean is (2 + 3 + 10 + 9 + 7 + 55)/6 = 14,33
 There is no mode.
 The median is 8.
